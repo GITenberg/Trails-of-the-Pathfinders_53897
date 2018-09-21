@@ -1,0 +1,32 @@
+_repo: Trails-of-the-Pathfinders_53897
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grinnell, George Bird
+    birthdate: 1849
+    deathdate: 1938
+    gutenberg_agent_id: '4021'
+    url: http://www.gutenberg.org/2009/agents/4021
+    wikipedia: http://en.wikipedia.org/wiki/George_Bird_Grinnell
+description: ''
+gutenberg_issued: '2017-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53897'
+  lccn: '11009543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'West (U.S.) -- History'
+- !lcc 'F590.3'
+- !lcsh 'Pioneers -- United States'
+- !lcsh 'Northwest, Canadian -- Description and travel'
+- GITenberg
+tableOfContents: Alexander Henry -- Jonathan Carver -- Alexander Mackenzie -- Lewis
+  and Clark -- Zebulon M. Pike -- Alexander Henry (The younger) -- Ross Cox -- The
+  commerce of the prairies -- Samuel Parker -- Thomas J. Farnham -- Fremont.
+title: Trails of the Pathfinders
+url: http://www.gutenberg.org/ebooks/53897
